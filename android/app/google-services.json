@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561142383587",
+    "project_id": "cloud-58782",
+    "storage_bucket": "cloud-58782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561142383587:android:070d62e3aca8d3fab296d6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course_updated_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaU2KtHP_FHiP0V7arhs6y7HNTdRX5G2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
